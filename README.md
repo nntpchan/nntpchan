@@ -1,7 +1,7 @@
 
 ![le ebin logo](nntpchan.png "ebin logo")
 
-![MIT License](https://img.shields.io/github/license/majestrate/nntpchan.svg)
+![MIT License](https://img.shields.io/github/license/nntpchan/nntpchan.svg)
 ![Logo is ebin](https://img.shields.io/badge/logo-ebin-brightgreen.svg)
 
 
@@ -16,15 +16,14 @@ TL;DR edition:
 
     $ sudo apt update
     $ sudo apt install --no-install-recommends install imagemagick ffmpeg sox build-essential git ca-certificates postgresql postgresql-client golang
-    $ git clone https://github.com/majestrate/nntpchan
+    $ git clone https://github.com/nntpchan/nntpchan
     $ cd nntpchan
     $ make
     $ SRND_INSTALLER=0 ./srndv2 setup 
 
 ## Bugs and issues
 
-*PLEASE* report any bugs you find while building, setting-up or using NNTPChan on the [GitHub issue tracker](https://github.com/majestrate/nntpchan/issues), the [issue tracker on tor](http://git.psii2pdloxelodts.onion/psi/nntpchan/), the [issue tracker on i2p](http://git.psi.i2p/psi/nntpchan/) or on the [GitGud issue tracker](https://gitgud.io/jeff/nntpchan/issues) so that the probelms can be resolved or discussed.
-
+*PLEASE* report any bugs you find while building, setting-up or using NNTPChan on the [GitHub issue tracker](https://github.com/nntpchan/nntpchan/issues)
 ## Clients
 
 NNTP (confirmed working):
