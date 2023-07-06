@@ -21,6 +21,10 @@ TL;DR edition:
     $ make
     $ SRND_INSTALLER=0 ./srndv2 setup 
 
+
+## Installation guide
+proper installation guide soon
+
 ## Bugs and issues
 
 *PLEASE* report any bugs you find while building, setting-up or using NNTPChan on the [GitHub issue tracker](https://github.com/nntpchan/nntpchan/issues)
